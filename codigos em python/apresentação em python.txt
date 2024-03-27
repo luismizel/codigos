@@ -1,0 +1,6 @@
+print ("ola meu nome é Luiz INacio Lula da Silva ")
+print ("tenho 12 anos")
+print ("nasci em Buenos Aires na Argentina")
+print ("hoje trabalho como garçon em um restaurante na cidade de São Paulo")
+print ("moro em uma kitnet com outros 12 estudantes de filosofia e historia")
+print ("meu sonho é me tornar o melhor jogador de League of Legends do Brasil")
